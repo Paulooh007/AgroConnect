@@ -1,0 +1,11 @@
+.DS_Store
+/__pycache__
+/venv
+
+
+.vscode
+.pycharm
+__pycache__
+.idea
+.ipynb_checkpoints
+models.config
