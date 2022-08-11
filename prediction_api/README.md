@@ -4,17 +4,22 @@ _make sure you in this directory before running the commands_
 
 ## 1. Create and activate virtual env
 
-$ `python3 -m venv [path to venv]`
-
-$ `[path to venv]/Scripts/activate`
+```bash
+python3 -m venv [path to venv]
+[path to venv]/Scripts/activate
+```
 
 ## 2. Install requirements
 
-$ `pip install -r requirements.txt`
+```bash
+pip install -r requirements.txt
+```
 
 ## 3. Run the fast api server using uvicorn
 
-$ `uvicorn main:app --reload --host 0.0.0.0`
+```bash
+uvicorn main:app --reload --host 0.0.0.0
+```
 
 app is now running at http://localhost:8000/
 
@@ -39,4 +44,6 @@ Sample output.
 
 To test multiple sample images run `test.py` in `./test `
 
-$ `python ./test/test.py`
+```bash
+python ./test/test.py
+```
