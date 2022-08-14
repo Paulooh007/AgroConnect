@@ -1,8 +1,5 @@
 .DS_Store
-/__pycache__
-/venv
-
-
+__pycache__
 .vscode
 .pycharm
 __pycache__
