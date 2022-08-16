@@ -5,7 +5,7 @@ AgroConnect is a mobile application that connects farmers to consumers as well a
 A built-in AI model can also be used to diagnose plant illness and give treatment suggestions.
 
 <p align="center">
-<img src="https://github.com/Paulooh007/project_gifs/blob/3f42d45461357453db1ffbbe0eb540f6de1edb97/agconnect2.gif" alt="Demo gif" title="Demo gif" height="550" width="300"/>
+<img src="https://github.com/Paulooh007/project_gifs/blob/3f42d45461357453db1ffbbe0eb540f6de1edb97/agconnect2.gif" alt="Demo gif" title="Demo gif" height="600" width="300"/>
 </p>
 
 ## SignUp Options for Consumer or Farmer.
@@ -17,3 +17,9 @@ A built-in AI model can also be used to diagnose plant illness and give treatmen
 ![order](./images/order.png)
 
 ## AI Plant disease diagnosis for farmers.
+
+- Option available to use phone camera or upload from gallery.
+
+<p align="center">
+<img src="https://github.com/Paulooh007/project_gifs/blob/fabf94ed408908f2577c8466e10b77b57ac48148/cv-demo.gif" alt="Demo gif" title="Demo gif" height="600" width="300"/>
+</p>
